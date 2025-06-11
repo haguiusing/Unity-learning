@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Unity\u5B66\u4E60\\C#\\\u7B97\u6CD5\u7EC3\u4E60\\\u7B97\u6CD5\u9898\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B11CE96B-3463-4D8B-9F77-B5F299747165}|\u7D20\u6570\\\u7D20\u6570.csproj|f:\\unity\u5B66\u4E60\\c#\\\u7B97\u6CD5\u7EC3\u4E60\\\u7B97\u6CD5\u9898\\\u7D20\u6570\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B11CE96B-3463-4D8B-9F77-B5F299747165}|\u7D20\u6570\\\u7D20\u6570.csproj|solutionrelative:\u7D20\u6570\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E436F066-9D35-46C8-BFDA-42CCDFDDE5AB}|\u57FA\u6570\u6392\u5E8F\\\u57FA\u6570\u6392\u5E8F.csproj|f:\\unity\u5B66\u4E60\\c#\\\u7B97\u6CD5\u7EC3\u4E60\\\u7B97\u6CD5\u9898\\\u57FA\u6570\u6392\u5E8F\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E436F066-9D35-46C8-BFDA-42CCDFDDE5AB}|\u57FA\u6570\u6392\u5E8F\\\u57FA\u6570\u6392\u5E8F.csproj|solutionrelative:\u57FA\u6570\u6392\u5E8F\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71F37C7A-545E-4EF8-BB7D-846ACF2BE6D7}|\u6876\u6392\u5E8F\\\u6876\u6392\u5E8F.csproj|f:\\unity\u5B66\u4E60\\c#\\\u7B97\u6CD5\u7EC3\u4E60\\\u7B97\u6CD5\u9898\\\u6876\u6392\u5E8F\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71F37C7A-545E-4EF8-BB7D-846ACF2BE6D7}|\u6876\u6392\u5E8F\\\u6876\u6392\u5E8F.csproj|solutionrelative:\u6876\u6392\u5E8F\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24C2310A-E4EF-4970-B470-0EB31432D0C4}|\u8BA1\u6570\u6392\u5E8F\\\u8BA1\u6570\u6392\u5E8F.csproj|f:\\unity\u5B66\u4E60\\c#\\\u7B97\u6CD5\u7EC3\u4E60\\\u7B97\u6CD5\u9898\\\u8BA1\u6570\u6392\u5E8F\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24C2310A-E4EF-4970-B470-0EB31432D0C4}|\u8BA1\u6570\u6392\u5E8F\\\u8BA1\u6570\u6392\u5E8F.csproj|solutionrelative:\u8BA1\u6570\u6392\u5E8F\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DCCDF85-AD77-47F7-9A74-BC9ED67294AC}|\u5806\u6392\u5E8F\\\u5806\u6392\u5E8F.csproj|f:\\unity\u5B66\u4E60\\c#\\\u7B97\u6CD5\u7EC3\u4E60\\\u7B97\u6CD5\u9898\\\u5806\u6392\u5E8F\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DCCDF85-AD77-47F7-9A74-BC9ED67294AC}|\u5806\u6392\u5E8F\\\u5806\u6392\u5E8F.csproj|solutionrelative:\u5806\u6392\u5E8F\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62C06828-0F11-4DB7-B618-B2CFB113B86E}|\u5FEB\u901F\u6392\u5E8F\\\u5FEB\u901F\u6392\u5E8F.csproj|f:\\unity\u5B66\u4E60\\c#\\\u7B97\u6CD5\u7EC3\u4E60\\\u7B97\u6CD5\u9898\\\u5FEB\u901F\u6392\u5E8F\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62C06828-0F11-4DB7-B618-B2CFB113B86E}|\u5FEB\u901F\u6392\u5E8F\\\u5FEB\u901F\u6392\u5E8F.csproj|solutionrelative:\u5FEB\u901F\u6392\u5E8F\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Unity\u5B66\u4E60\\C#\\\u7B97\u6CD5\u7EC3\u4E60\\\u7B97\u6CD5\u9898\\\u7D20\u6570\\Program.cs",
+              "RelativeDocumentMoniker": "\u7D20\u6570\\Program.cs",
+              "ToolTip": "F:\\Unity\u5B66\u4E60\\C#\\\u7B97\u6CD5\u7EC3\u4E60\\\u7B97\u6CD5\u9898\\\u7D20\u6570\\Program.cs",
+              "RelativeToolTip": "\u7D20\u6570\\Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAwCgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T04:28:41.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Unity\u5B66\u4E60\\C#\\\u7B97\u6CD5\u7EC3\u4E60\\\u7B97\u6CD5\u9898\\\u57FA\u6570\u6392\u5E8F\\Program.cs",
+              "RelativeDocumentMoniker": "\u57FA\u6570\u6392\u5E8F\\Program.cs",
+              "ToolTip": "F:\\Unity\u5B66\u4E60\\C#\\\u7B97\u6CD5\u7EC3\u4E60\\\u7B97\u6CD5\u9898\\\u57FA\u6570\u6392\u5E8F\\Program.cs",
+              "RelativeToolTip": "\u57FA\u6570\u6392\u5E8F\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAwBgAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T04:27:37.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Unity\u5B66\u4E60\\C#\\\u7B97\u6CD5\u7EC3\u4E60\\\u7B97\u6CD5\u9898\\\u6876\u6392\u5E8F\\Program.cs",
+              "RelativeDocumentMoniker": "\u6876\u6392\u5E8F\\Program.cs",
+              "ToolTip": "F:\\Unity\u5B66\u4E60\\C#\\\u7B97\u6CD5\u7EC3\u4E60\\\u7B97\u6CD5\u9898\\\u6876\u6392\u5E8F\\Program.cs",
+              "RelativeToolTip": "\u6876\u6392\u5E8F\\Program.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAUwF0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T04:26:31.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Unity\u5B66\u4E60\\C#\\\u7B97\u6CD5\u7EC3\u4E60\\\u7B97\u6CD5\u9898\\\u8BA1\u6570\u6392\u5E8F\\Program.cs",
+              "RelativeDocumentMoniker": "\u8BA1\u6570\u6392\u5E8F\\Program.cs",
+              "ToolTip": "F:\\Unity\u5B66\u4E60\\C#\\\u7B97\u6CD5\u7EC3\u4E60\\\u7B97\u6CD5\u9898\\\u8BA1\u6570\u6392\u5E8F\\Program.cs",
+              "RelativeToolTip": "\u8BA1\u6570\u6392\u5E8F\\Program.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAIwCsAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T04:24:25.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Unity\u5B66\u4E60\\C#\\\u7B97\u6CD5\u7EC3\u4E60\\\u7B97\u6CD5\u9898\\\u5806\u6392\u5E8F\\Program.cs",
+              "RelativeDocumentMoniker": "\u5806\u6392\u5E8F\\Program.cs",
+              "ToolTip": "F:\\Unity\u5B66\u4E60\\C#\\\u7B97\u6CD5\u7EC3\u4E60\\\u7B97\u6CD5\u9898\\\u5806\u6392\u5E8F\\Program.cs",
+              "RelativeToolTip": "\u5806\u6392\u5E8F\\Program.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAQwF0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T04:20:39.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Unity\u5B66\u4E60\\C#\\\u7B97\u6CD5\u7EC3\u4E60\\\u7B97\u6CD5\u9898\\\u5FEB\u901F\u6392\u5E8F\\Program.cs",
+              "RelativeDocumentMoniker": "\u5FEB\u901F\u6392\u5E8F\\Program.cs",
+              "ToolTip": "F:\\Unity\u5B66\u4E60\\C#\\\u7B97\u6CD5\u7EC3\u4E60\\\u7B97\u6CD5\u9898\\\u5FEB\u901F\u6392\u5E8F\\Program.cs",
+              "RelativeToolTip": "\u5FEB\u901F\u6392\u5E8F\\Program.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAQwEAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T04:14:30.619Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

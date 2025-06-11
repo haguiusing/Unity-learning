@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Lesson25_排序进阶_插入排序/1.0.0": {
+        "runtime": {
+          "Lesson25_排序进阶_插入排序.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lesson25_排序进阶_插入排序/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

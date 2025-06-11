@@ -1,0 +1,6 @@
+F:\Unity学习\C#\4.C#进阶\C#进阶\类库测试\obj\Debug\类库测试.csproj.AssemblyReference.cache
+F:\Unity学习\C#\4.C#进阶\C#进阶\类库测试\obj\Debug\类库测试.csproj.CoreCompileInputs.cache
+F:\Unity学习\C#\4.C#进阶\C#进阶\类库测试\bin\Debug\类库测试.dll
+F:\Unity学习\C#\4.C#进阶\C#进阶\类库测试\bin\Debug\类库测试.pdb
+F:\Unity学习\C#\4.C#进阶\C#进阶\类库测试\obj\Debug\类库测试.dll
+F:\Unity学习\C#\4.C#进阶\C#进阶\类库测试\obj\Debug\类库测试.pdb

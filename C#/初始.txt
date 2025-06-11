@@ -1,0 +1,88 @@
+using System;
+
+namespace Lesson_
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("异常捕获");
+
+            #region 知识点一：
+
+            #endregion
+
+            #region 知识点二：
+
+            #endregion
+
+            #region 知识点三：
+
+            #endregion
+
+            #region 知识点四：
+
+            #endregion
+
+            #region 知识点五：
+
+            #endregion
+        }
+    }
+}
+
+namespace Lesson1_练习题
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("类和对象练习题");
+
+            #region 练习题一：
+
+            #endregion
+
+            #region 练习题二：
+
+            #endregion
+
+            #region 练习题三：
+
+            #endregion
+
+            #region 练习题四：
+
+            #endregion
+            #region 
+
+            #endregion
+        }
+    }
+}
+#region 知识点一：Dictionary的本质
+
+#endregion
+
+#region 知识点二：申明
+
+#endregion
+
+#region 知识点三：增删查改
+#region 增
+
+#endregion
+#region 删
+
+#endregion
+#region 查
+
+#endregion
+#region 改
+
+#endregion
+#endregion
+
+#region 知识点四：遍历
+
+#endregion

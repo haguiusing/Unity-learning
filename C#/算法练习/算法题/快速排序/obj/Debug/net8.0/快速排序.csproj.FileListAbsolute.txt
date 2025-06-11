@@ -1,0 +1,14 @@
+F:\Unity学习\C#\算法练习\算法题\快速排序\obj\Debug\net8.0\快速排序.GeneratedMSBuildEditorConfig.editorconfig
+F:\Unity学习\C#\算法练习\算法题\快速排序\obj\Debug\net8.0\快速排序.AssemblyInfoInputs.cache
+F:\Unity学习\C#\算法练习\算法题\快速排序\obj\Debug\net8.0\快速排序.AssemblyInfo.cs
+F:\Unity学习\C#\算法练习\算法题\快速排序\obj\Debug\net8.0\快速排序.csproj.CoreCompileInputs.cache
+F:\Unity学习\C#\算法练习\算法题\快速排序\bin\Debug\net8.0\快速排序.exe
+F:\Unity学习\C#\算法练习\算法题\快速排序\bin\Debug\net8.0\快速排序.deps.json
+F:\Unity学习\C#\算法练习\算法题\快速排序\bin\Debug\net8.0\快速排序.runtimeconfig.json
+F:\Unity学习\C#\算法练习\算法题\快速排序\bin\Debug\net8.0\快速排序.dll
+F:\Unity学习\C#\算法练习\算法题\快速排序\bin\Debug\net8.0\快速排序.pdb
+F:\Unity学习\C#\算法练习\算法题\快速排序\obj\Debug\net8.0\快速排序.dll
+F:\Unity学习\C#\算法练习\算法题\快速排序\obj\Debug\net8.0\refint\快速排序.dll
+F:\Unity学习\C#\算法练习\算法题\快速排序\obj\Debug\net8.0\快速排序.pdb
+F:\Unity学习\C#\算法练习\算法题\快速排序\obj\Debug\net8.0\快速排序.genruntimeconfig.cache
+F:\Unity学习\C#\算法练习\算法题\快速排序\obj\Debug\net8.0\ref\快速排序.dll

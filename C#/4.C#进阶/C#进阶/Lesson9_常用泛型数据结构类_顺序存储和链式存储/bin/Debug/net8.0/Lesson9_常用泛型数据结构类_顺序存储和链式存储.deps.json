@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Lesson9_常用泛型数据结构类_顺序存储和链式存储/1.0.0": {
+        "runtime": {
+          "Lesson9_常用泛型数据结构类_顺序存储和链式存储.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lesson9_常用泛型数据结构类_顺序存储和链式存储/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

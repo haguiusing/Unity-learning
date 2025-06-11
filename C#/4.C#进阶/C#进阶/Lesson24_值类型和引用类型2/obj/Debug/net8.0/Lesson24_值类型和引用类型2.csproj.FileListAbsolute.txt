@@ -1,0 +1,14 @@
+F:\Unity学习\C#\4.C#进阶\C#进阶\Lesson24_值类型和引用类型2\bin\Debug\net8.0\Lesson24_值类型和引用类型2.exe
+F:\Unity学习\C#\4.C#进阶\C#进阶\Lesson24_值类型和引用类型2\bin\Debug\net8.0\Lesson24_值类型和引用类型2.deps.json
+F:\Unity学习\C#\4.C#进阶\C#进阶\Lesson24_值类型和引用类型2\bin\Debug\net8.0\Lesson24_值类型和引用类型2.runtimeconfig.json
+F:\Unity学习\C#\4.C#进阶\C#进阶\Lesson24_值类型和引用类型2\bin\Debug\net8.0\Lesson24_值类型和引用类型2.dll
+F:\Unity学习\C#\4.C#进阶\C#进阶\Lesson24_值类型和引用类型2\bin\Debug\net8.0\Lesson24_值类型和引用类型2.pdb
+F:\Unity学习\C#\4.C#进阶\C#进阶\Lesson24_值类型和引用类型2\obj\Debug\net8.0\Lesson24_值类型和引用类型2.GeneratedMSBuildEditorConfig.editorconfig
+F:\Unity学习\C#\4.C#进阶\C#进阶\Lesson24_值类型和引用类型2\obj\Debug\net8.0\Lesson24_值类型和引用类型2.AssemblyInfoInputs.cache
+F:\Unity学习\C#\4.C#进阶\C#进阶\Lesson24_值类型和引用类型2\obj\Debug\net8.0\Lesson24_值类型和引用类型2.AssemblyInfo.cs
+F:\Unity学习\C#\4.C#进阶\C#进阶\Lesson24_值类型和引用类型2\obj\Debug\net8.0\Lesson24_值类型和引用类型2.csproj.CoreCompileInputs.cache
+F:\Unity学习\C#\4.C#进阶\C#进阶\Lesson24_值类型和引用类型2\obj\Debug\net8.0\Lesson24_值类型和引用类型2.dll
+F:\Unity学习\C#\4.C#进阶\C#进阶\Lesson24_值类型和引用类型2\obj\Debug\net8.0\refint\Lesson24_值类型和引用类型2.dll
+F:\Unity学习\C#\4.C#进阶\C#进阶\Lesson24_值类型和引用类型2\obj\Debug\net8.0\Lesson24_值类型和引用类型2.pdb
+F:\Unity学习\C#\4.C#进阶\C#进阶\Lesson24_值类型和引用类型2\obj\Debug\net8.0\Lesson24_值类型和引用类型2.genruntimeconfig.cache
+F:\Unity学习\C#\4.C#进阶\C#进阶\Lesson24_值类型和引用类型2\obj\Debug\net8.0\ref\Lesson24_值类型和引用类型2.dll

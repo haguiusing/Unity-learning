@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Lesson4_简单数据结构类_Hashtable/1.0.0": {
+        "runtime": {
+          "Lesson4_简单数据结构类_Hashtable.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lesson4_简单数据结构类_Hashtable/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,4 @@
+F:\Unity学习\C#\设计模式\适配器模式_对象适配器\适配器模式_对象适配器\obj\Debug\net8.0\适配器模式_对象适配器.GeneratedMSBuildEditorConfig.editorconfig
+F:\Unity学习\C#\设计模式\适配器模式_对象适配器\适配器模式_对象适配器\obj\Debug\net8.0\适配器模式_对象适配器.AssemblyInfoInputs.cache
+F:\Unity学习\C#\设计模式\适配器模式_对象适配器\适配器模式_对象适配器\obj\Debug\net8.0\适配器模式_对象适配器.AssemblyInfo.cs
+F:\Unity学习\C#\设计模式\适配器模式_对象适配器\适配器模式_对象适配器\obj\Debug\net8.0\适配器模式_对象适配器.csproj.CoreCompileInputs.cache
