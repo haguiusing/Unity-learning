@@ -1,0 +1,14 @@
+F:\Unity学习\C#\5.C#高级\C#高级\Task\bin\Debug\net8.0\Task.exe
+F:\Unity学习\C#\5.C#高级\C#高级\Task\bin\Debug\net8.0\Task.deps.json
+F:\Unity学习\C#\5.C#高级\C#高级\Task\bin\Debug\net8.0\Task.runtimeconfig.json
+F:\Unity学习\C#\5.C#高级\C#高级\Task\bin\Debug\net8.0\Task.dll
+F:\Unity学习\C#\5.C#高级\C#高级\Task\bin\Debug\net8.0\Task.pdb
+F:\Unity学习\C#\5.C#高级\C#高级\Task\obj\Debug\net8.0\Task.GeneratedMSBuildEditorConfig.editorconfig
+F:\Unity学习\C#\5.C#高级\C#高级\Task\obj\Debug\net8.0\Task.AssemblyInfoInputs.cache
+F:\Unity学习\C#\5.C#高级\C#高级\Task\obj\Debug\net8.0\Task.AssemblyInfo.cs
+F:\Unity学习\C#\5.C#高级\C#高级\Task\obj\Debug\net8.0\Task.csproj.CoreCompileInputs.cache
+F:\Unity学习\C#\5.C#高级\C#高级\Task\obj\Debug\net8.0\Task.dll
+F:\Unity学习\C#\5.C#高级\C#高级\Task\obj\Debug\net8.0\refint\Task.dll
+F:\Unity学习\C#\5.C#高级\C#高级\Task\obj\Debug\net8.0\Task.pdb
+F:\Unity学习\C#\5.C#高级\C#高级\Task\obj\Debug\net8.0\Task.genruntimeconfig.cache
+F:\Unity学习\C#\5.C#高级\C#高级\Task\obj\Debug\net8.0\ref\Task.dll

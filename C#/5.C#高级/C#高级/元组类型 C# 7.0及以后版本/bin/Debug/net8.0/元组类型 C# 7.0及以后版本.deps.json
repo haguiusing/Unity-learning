@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "元组类型 C# 7.0及以后版本/1.0.0": {
+        "runtime": {
+          "元组类型 C# 7.0及以后版本.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "元组类型 C# 7.0及以后版本/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,164 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Unity\u5B66\u4E60\\C#\\5.C#\u9AD8\u7EA7\\C#\u9AD8\u7EA7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4247CB00-F32E-4C75-9763-5FDD5D82BA51}|\u9762\u5411\u5BF9\u8C61\u4E03\u5927\u539F\u5219\\\u9762\u5411\u5BF9\u8C61\u4E03\u5927\u539F\u5219.csproj|f:\\unity\u5B66\u4E60\\c#\\5.c#\u9AD8\u7EA7\\c#\u9AD8\u7EA7\\\u9762\u5411\u5BF9\u8C61\u4E03\u5927\u539F\u5219\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4247CB00-F32E-4C75-9763-5FDD5D82BA51}|\u9762\u5411\u5BF9\u8C61\u4E03\u5927\u539F\u5219\\\u9762\u5411\u5BF9\u8C61\u4E03\u5927\u539F\u5219.csproj|solutionrelative:\u9762\u5411\u5BF9\u8C61\u4E03\u5927\u539F\u5219\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{928A22BD-6EE3-4E90-BBF9-73F2B588B996}|ThreadPool\\ThreadPool.csproj|f:\\unity\u5B66\u4E60\\c#\\5.c#\u9AD8\u7EA7\\c#\u9AD8\u7EA7\\threadpool\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{928A22BD-6EE3-4E90-BBF9-73F2B588B996}|ThreadPool\\ThreadPool.csproj|solutionrelative:threadpool\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F38D71C1-15C3-4E36-B7A8-7CEC41E826C5}|Task\\Task.csproj|f:\\unity\u5B66\u4E60\\c#\\5.c#\u9AD8\u7EA7\\c#\u9AD8\u7EA7\\task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F38D71C1-15C3-4E36-B7A8-7CEC41E826C5}|Task\\Task.csproj|solutionrelative:task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7007336F-046A-4696-AE03-4767C5A9B105}|\u5F02\u6B65\u7F16\u7A0B\\\u5F02\u6B65\u7F16\u7A0B.csproj|f:\\unity\u5B66\u4E60\\c#\\5.c#\u9AD8\u7EA7\\c#\u9AD8\u7EA7\\\u5F02\u6B65\u7F16\u7A0B\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7007336F-046A-4696-AE03-4767C5A9B105}|\u5F02\u6B65\u7F16\u7A0B\\\u5F02\u6B65\u7F16\u7A0B.csproj|solutionrelative:\u5F02\u6B65\u7F16\u7A0B\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\Unity\u5B66\u4E60\\C#\\4.1C#\u8FDB\u9636\u77E5\u8BC6\u70B9\u8865\u5145\\C#\u8FDB\u9636\u8865\u5145\\Lesson9_\u5F02\u6B65\u65B9\u6CD5async\u548Cawait\u5173\u952E\u5B57\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{912ED3AF-213F-4D56-9208-A28046D54DB6}|\u96C6\u5408\u5E95\u5C42\u539F\u7406\\\u96C6\u5408\u5E95\u5C42\u539F\u7406.csproj|f:\\unity\u5B66\u4E60\\c#\\5.c#\u9AD8\u7EA7\\c#\u9AD8\u7EA7\\\u96C6\u5408\u5E95\u5C42\u539F\u7406\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{912ED3AF-213F-4D56-9208-A28046D54DB6}|\u96C6\u5408\u5E95\u5C42\u539F\u7406\\\u96C6\u5408\u5E95\u5C42\u539F\u7406.csproj|solutionrelative:\u96C6\u5408\u5E95\u5C42\u539F\u7406\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD704CBB-78BF-407A-AB01-E3BF78D89D16}|\u96C6\u5408\u7C7B\\\u96C6\u5408\u7C7B.csproj|f:\\unity\u5B66\u4E60\\c#\\5.c#\u9AD8\u7EA7\\c#\u9AD8\u7EA7\\\u96C6\u5408\u7C7B\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD704CBB-78BF-407A-AB01-E3BF78D89D16}|\u96C6\u5408\u7C7B\\\u96C6\u5408\u7C7B.csproj|solutionrelative:\u96C6\u5408\u7C7B\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\Unity\u5B66\u4E60\\C#\\4.1C#\u8FDB\u9636\u77E5\u8BC6\u70B9\u8865\u5145\\C#\u8FDB\u9636\u8865\u5145\\Lesson12_\u5143\u7EC4\u6A21\u5F0F\u5339\u914D\u629B\u51FA\u8868\u8FBE\u5F0F\u7B49\u77E5\u8BC6\u70B9\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{240F6543-C473-4202-8024-DBD44F8BA555}|unsafe\\unsafe.csproj|f:\\unity\u5B66\u4E60\\c#\\5.c#\u9AD8\u7EA7\\c#\u9AD8\u7EA7\\unsafe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{240F6543-C473-4202-8024-DBD44F8BA555}|unsafe\\unsafe.csproj|solutionrelative:unsafe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Unity\u5B66\u4E60\\C#\\4.1C#\u8FDB\u9636\u77E5\u8BC6\u70B9\u8865\u5145\\C#\u8FDB\u9636\u8865\u5145\\Lesson9_\u5F02\u6B65\u65B9\u6CD5async\u548Cawait\u5173\u952E\u5B57\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\4.1C#\u8FDB\u9636\u77E5\u8BC6\u70B9\u8865\u5145\\C#\u8FDB\u9636\u8865\u5145\\Lesson9_\u5F02\u6B65\u65B9\u6CD5async\u548Cawait\u5173\u952E\u5B57\\Program.cs",
+              "ToolTip": "F:\\Unity\u5B66\u4E60\\C#\\4.1C#\u8FDB\u9636\u77E5\u8BC6\u70B9\u8865\u5145\\C#\u8FDB\u9636\u8865\u5145\\Lesson9_\u5F02\u6B65\u65B9\u6CD5async\u548Cawait\u5173\u952E\u5B57\\Program.cs",
+              "RelativeToolTip": "..\\..\\4.1C#\u8FDB\u9636\u77E5\u8BC6\u70B9\u8865\u5145\\C#\u8FDB\u9636\u8865\u5145\\Lesson9_\u5F02\u6B65\u65B9\u6CD5async\u548Cawait\u5173\u952E\u5B57\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T01:21:12.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Unity\u5B66\u4E60\\C#\\5.C#\u9AD8\u7EA7\\C#\u9AD8\u7EA7\\ThreadPool\\Program.cs",
+              "RelativeDocumentMoniker": "ThreadPool\\Program.cs",
+              "ToolTip": "F:\\Unity\u5B66\u4E60\\C#\\5.C#\u9AD8\u7EA7\\C#\u9AD8\u7EA7\\ThreadPool\\Program.cs",
+              "RelativeToolTip": "ThreadPool\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAwDYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T01:21:01.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Unity\u5B66\u4E60\\C#\\5.C#\u9AD8\u7EA7\\C#\u9AD8\u7EA7\\\u5F02\u6B65\u7F16\u7A0B\\Program.cs",
+              "RelativeDocumentMoniker": "\u5F02\u6B65\u7F16\u7A0B\\Program.cs",
+              "ToolTip": "F:\\Unity\u5B66\u4E60\\C#\\5.C#\u9AD8\u7EA7\\C#\u9AD8\u7EA7\\\u5F02\u6B65\u7F16\u7A0B\\Program.cs",
+              "RelativeToolTip": "\u5F02\u6B65\u7F16\u7A0B\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T01:18:20.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Unity\u5B66\u4E60\\C#\\5.C#\u9AD8\u7EA7\\C#\u9AD8\u7EA7\\\u96C6\u5408\u5E95\u5C42\u539F\u7406\\Program.cs",
+              "RelativeDocumentMoniker": "\u96C6\u5408\u5E95\u5C42\u539F\u7406\\Program.cs",
+              "ToolTip": "F:\\Unity\u5B66\u4E60\\C#\\5.C#\u9AD8\u7EA7\\C#\u9AD8\u7EA7\\\u96C6\u5408\u5E95\u5C42\u539F\u7406\\Program.cs",
+              "RelativeToolTip": "\u96C6\u5408\u5E95\u5C42\u539F\u7406\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T23:59:38.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Unity\u5B66\u4E60\\C#\\4.1C#\u8FDB\u9636\u77E5\u8BC6\u70B9\u8865\u5145\\C#\u8FDB\u9636\u8865\u5145\\Lesson12_\u5143\u7EC4\u6A21\u5F0F\u5339\u914D\u629B\u51FA\u8868\u8FBE\u5F0F\u7B49\u77E5\u8BC6\u70B9\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\4.1C#\u8FDB\u9636\u77E5\u8BC6\u70B9\u8865\u5145\\C#\u8FDB\u9636\u8865\u5145\\Lesson12_\u5143\u7EC4\u6A21\u5F0F\u5339\u914D\u629B\u51FA\u8868\u8FBE\u5F0F\u7B49\u77E5\u8BC6\u70B9\\Program.cs",
+              "ToolTip": "F:\\Unity\u5B66\u4E60\\C#\\4.1C#\u8FDB\u9636\u77E5\u8BC6\u70B9\u8865\u5145\\C#\u8FDB\u9636\u8865\u5145\\Lesson12_\u5143\u7EC4\u6A21\u5F0F\u5339\u914D\u629B\u51FA\u8868\u8FBE\u5F0F\u7B49\u77E5\u8BC6\u70B9\\Program.cs",
+              "RelativeToolTip": "..\\..\\4.1C#\u8FDB\u9636\u77E5\u8BC6\u70B9\u8865\u5145\\C#\u8FDB\u9636\u8865\u5145\\Lesson12_\u5143\u7EC4\u6A21\u5F0F\u5339\u914D\u629B\u51FA\u8868\u8FBE\u5F0F\u7B49\u77E5\u8BC6\u70B9\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T08:16:00.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Unity\u5B66\u4E60\\C#\\5.C#\u9AD8\u7EA7\\C#\u9AD8\u7EA7\\\u96C6\u5408\u7C7B\\Program.cs",
+              "RelativeDocumentMoniker": "\u96C6\u5408\u7C7B\\Program.cs",
+              "ToolTip": "F:\\Unity\u5B66\u4E60\\C#\\5.C#\u9AD8\u7EA7\\C#\u9AD8\u7EA7\\\u96C6\u5408\u7C7B\\Program.cs",
+              "RelativeToolTip": "\u96C6\u5408\u7C7B\\Program.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAAwEMAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T07:37:01.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Unity\u5B66\u4E60\\C#\\5.C#\u9AD8\u7EA7\\C#\u9AD8\u7EA7\\\u9762\u5411\u5BF9\u8C61\u4E03\u5927\u539F\u5219\\Program.cs",
+              "RelativeDocumentMoniker": "\u9762\u5411\u5BF9\u8C61\u4E03\u5927\u539F\u5219\\Program.cs",
+              "ToolTip": "F:\\Unity\u5B66\u4E60\\C#\\5.C#\u9AD8\u7EA7\\C#\u9AD8\u7EA7\\\u9762\u5411\u5BF9\u8C61\u4E03\u5927\u539F\u5219\\Program.cs",
+              "RelativeToolTip": "\u9762\u5411\u5BF9\u8C61\u4E03\u5927\u539F\u5219\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T09:31:29.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Unity\u5B66\u4E60\\C#\\5.C#\u9AD8\u7EA7\\C#\u9AD8\u7EA7\\Task\\Program.cs",
+              "RelativeDocumentMoniker": "Task\\Program.cs",
+              "ToolTip": "F:\\Unity\u5B66\u4E60\\C#\\5.C#\u9AD8\u7EA7\\C#\u9AD8\u7EA7\\Task\\Program.cs",
+              "RelativeToolTip": "Task\\Program.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T01:24:53.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Unity\u5B66\u4E60\\C#\\5.C#\u9AD8\u7EA7\\C#\u9AD8\u7EA7\\unsafe\\Program.cs",
+              "RelativeDocumentMoniker": "unsafe\\Program.cs",
+              "ToolTip": "F:\\Unity\u5B66\u4E60\\C#\\5.C#\u9AD8\u7EA7\\C#\u9AD8\u7EA7\\unsafe\\Program.cs",
+              "RelativeToolTip": "unsafe\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T15:23:23.115Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

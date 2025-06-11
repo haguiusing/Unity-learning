@@ -1,0 +1,14 @@
+F:\Unity学习\C#\5.C#高级\C#高级\Type\bin\Debug\net8.0\Type.exe
+F:\Unity学习\C#\5.C#高级\C#高级\Type\bin\Debug\net8.0\Type.deps.json
+F:\Unity学习\C#\5.C#高级\C#高级\Type\bin\Debug\net8.0\Type.runtimeconfig.json
+F:\Unity学习\C#\5.C#高级\C#高级\Type\bin\Debug\net8.0\Type.dll
+F:\Unity学习\C#\5.C#高级\C#高级\Type\bin\Debug\net8.0\Type.pdb
+F:\Unity学习\C#\5.C#高级\C#高级\Type\obj\Debug\net8.0\Type.GeneratedMSBuildEditorConfig.editorconfig
+F:\Unity学习\C#\5.C#高级\C#高级\Type\obj\Debug\net8.0\Type.AssemblyInfoInputs.cache
+F:\Unity学习\C#\5.C#高级\C#高级\Type\obj\Debug\net8.0\Type.AssemblyInfo.cs
+F:\Unity学习\C#\5.C#高级\C#高级\Type\obj\Debug\net8.0\Type.csproj.CoreCompileInputs.cache
+F:\Unity学习\C#\5.C#高级\C#高级\Type\obj\Debug\net8.0\Type.dll
+F:\Unity学习\C#\5.C#高级\C#高级\Type\obj\Debug\net8.0\refint\Type.dll
+F:\Unity学习\C#\5.C#高级\C#高级\Type\obj\Debug\net8.0\Type.pdb
+F:\Unity学习\C#\5.C#高级\C#高级\Type\obj\Debug\net8.0\Type.genruntimeconfig.cache
+F:\Unity学习\C#\5.C#高级\C#高级\Type\obj\Debug\net8.0\ref\Type.dll
