@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "LINQ_聚合运算符_Average_Aggregate_Count_LongCount_Max_Min和Sum/1.0.0": {
+        "runtime": {
+          "LINQ_聚合运算符_Average_Aggregate_Count_LongCount_Max_Min和Sum.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LINQ_聚合运算符_Average_Aggregate_Count_LongCount_Max_Min和Sum/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

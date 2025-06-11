@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Unity\u5B66\u4E60\\C#\\5.C#\u9AD8\u7EA7\\LINQ\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0639256A-D4EC-43C2-A1F0-E62C3C268BF6}|LINQ \u5206\u533A\u8FD0\u7B97\u7B26 Skip SkipWhile\\LINQ \u5206\u533A\u8FD0\u7B97\u7B26 Skip SkipWhile.csproj|f:\\unity\u5B66\u4E60\\c#\\5.c#\u9AD8\u7EA7\\linq\\linq \u5206\u533A\u8FD0\u7B97\u7B26 skip skipwhile\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0639256A-D4EC-43C2-A1F0-E62C3C268BF6}|LINQ \u5206\u533A\u8FD0\u7B97\u7B26 Skip SkipWhile\\LINQ \u5206\u533A\u8FD0\u7B97\u7B26 Skip SkipWhile.csproj|solutionrelative:linq \u5206\u533A\u8FD0\u7B97\u7B26 skip skipwhile\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C424F0F-10A2-4E16-BA34-D265BFC4B780}|LINQ Set\u8FD0\u7B97\u7B26 Distinct Except Intersect Union\\LINQ Set\u8FD0\u7B97\u7B26 Distinct Except Intersect Union.csproj|f:\\unity\u5B66\u4E60\\c#\\5.c#\u9AD8\u7EA7\\linq\\linq set\u8FD0\u7B97\u7B26 distinct except intersect union\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C424F0F-10A2-4E16-BA34-D265BFC4B780}|LINQ Set\u8FD0\u7B97\u7B26 Distinct Except Intersect Union\\LINQ Set\u8FD0\u7B97\u7B26 Distinct Except Intersect Union.csproj|solutionrelative:linq set\u8FD0\u7B97\u7B26 distinct except intersect union\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09DE9948-A4D9-4278-846A-BA6CB9ADDCF2}|LINQ \u6807\u51C6\u67E5\u8BE2\u8FD0\u7B97\u7B26\\LINQ \u6807\u51C6\u67E5\u8BE2\u8FD0\u7B97\u7B26.csproj|f:\\unity\u5B66\u4E60\\c#\\5.c#\u9AD8\u7EA7\\linq\\linq \u6807\u51C6\u67E5\u8BE2\u8FD0\u7B97\u7B26\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09DE9948-A4D9-4278-846A-BA6CB9ADDCF2}|LINQ \u6807\u51C6\u67E5\u8BE2\u8FD0\u7B97\u7B26\\LINQ \u6807\u51C6\u67E5\u8BE2\u8FD0\u7B97\u7B26.csproj|solutionrelative:linq \u6807\u51C6\u67E5\u8BE2\u8FD0\u7B97\u7B26\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98CEE497-3C23-4724-9D69-B447E20E1D64}|LINQ \u5143\u7D20\u8FD0\u7B97\u7B26 Single\u548CSingleOrDefault\\LINQ \u5143\u7D20\u8FD0\u7B97\u7B26 Single\u548CSingleOrDefault.csproj|f:\\unity\u5B66\u4E60\\c#\\5.c#\u9AD8\u7EA7\\linq\\linq \u5143\u7D20\u8FD0\u7B97\u7B26 single\u548Csingleordefault\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98CEE497-3C23-4724-9D69-B447E20E1D64}|LINQ \u5143\u7D20\u8FD0\u7B97\u7B26 Single\u548CSingleOrDefault\\LINQ \u5143\u7D20\u8FD0\u7B97\u7B26 Single\u548CSingleOrDefault.csproj|solutionrelative:linq \u5143\u7D20\u8FD0\u7B97\u7B26 single\u548Csingleordefault\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Unity\u5B66\u4E60\\C#\\5.C#\u9AD8\u7EA7\\LINQ\\LINQ \u5206\u533A\u8FD0\u7B97\u7B26 Skip SkipWhile\\Program.cs",
+              "RelativeDocumentMoniker": "LINQ \u5206\u533A\u8FD0\u7B97\u7B26 Skip SkipWhile\\Program.cs",
+              "ToolTip": "F:\\Unity\u5B66\u4E60\\C#\\5.C#\u9AD8\u7EA7\\LINQ\\LINQ \u5206\u533A\u8FD0\u7B97\u7B26 Skip SkipWhile\\Program.cs*",
+              "RelativeToolTip": "LINQ \u5206\u533A\u8FD0\u7B97\u7B26 Skip SkipWhile\\Program.cs*",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAgwF0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T06:28:12.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Unity\u5B66\u4E60\\C#\\5.C#\u9AD8\u7EA7\\LINQ\\LINQ Set\u8FD0\u7B97\u7B26 Distinct Except Intersect Union\\Program.cs",
+              "RelativeDocumentMoniker": "LINQ Set\u8FD0\u7B97\u7B26 Distinct Except Intersect Union\\Program.cs",
+              "ToolTip": "F:\\Unity\u5B66\u4E60\\C#\\5.C#\u9AD8\u7EA7\\LINQ\\LINQ Set\u8FD0\u7B97\u7B26 Distinct Except Intersect Union\\Program.cs",
+              "RelativeToolTip": "LINQ Set\u8FD0\u7B97\u7B26 Distinct Except Intersect Union\\Program.cs",
+              "ViewState": "AgIAANEAAAAAAAAAAAAIwOUAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T06:13:35.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Unity\u5B66\u4E60\\C#\\5.C#\u9AD8\u7EA7\\LINQ\\LINQ \u6807\u51C6\u67E5\u8BE2\u8FD0\u7B97\u7B26\\Program.cs",
+              "RelativeDocumentMoniker": "LINQ \u6807\u51C6\u67E5\u8BE2\u8FD0\u7B97\u7B26\\Program.cs",
+              "ToolTip": "F:\\Unity\u5B66\u4E60\\C#\\5.C#\u9AD8\u7EA7\\LINQ\\LINQ \u6807\u51C6\u67E5\u8BE2\u8FD0\u7B97\u7B26\\Program.cs",
+              "RelativeToolTip": "LINQ \u6807\u51C6\u67E5\u8BE2\u8FD0\u7B97\u7B26\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAADwvxoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T03:09:57.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Unity\u5B66\u4E60\\C#\\5.C#\u9AD8\u7EA7\\LINQ\\LINQ \u5143\u7D20\u8FD0\u7B97\u7B26 Single\u548CSingleOrDefault\\Program.cs",
+              "RelativeDocumentMoniker": "LINQ \u5143\u7D20\u8FD0\u7B97\u7B26 Single\u548CSingleOrDefault\\Program.cs",
+              "ToolTip": "F:\\Unity\u5B66\u4E60\\C#\\5.C#\u9AD8\u7EA7\\LINQ\\LINQ \u5143\u7D20\u8FD0\u7B97\u7B26 Single\u548CSingleOrDefault\\Program.cs",
+              "RelativeToolTip": "LINQ \u5143\u7D20\u8FD0\u7B97\u7B26 Single\u548CSingleOrDefault\\Program.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAAAD0AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T02:59:40.751Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

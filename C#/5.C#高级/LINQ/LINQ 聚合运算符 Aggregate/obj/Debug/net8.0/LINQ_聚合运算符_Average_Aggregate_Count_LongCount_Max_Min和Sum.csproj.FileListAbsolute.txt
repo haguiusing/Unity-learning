@@ -1,0 +1,14 @@
+F:\Unity学习\C#\5.C#高级\LINQ\LINQ 聚合运算符 Aggregate\bin\Debug\net8.0\LINQ_聚合运算符_Average_Aggregate_Count_LongCount_Max_Min和Sum.exe
+F:\Unity学习\C#\5.C#高级\LINQ\LINQ 聚合运算符 Aggregate\bin\Debug\net8.0\LINQ_聚合运算符_Average_Aggregate_Count_LongCount_Max_Min和Sum.deps.json
+F:\Unity学习\C#\5.C#高级\LINQ\LINQ 聚合运算符 Aggregate\bin\Debug\net8.0\LINQ_聚合运算符_Average_Aggregate_Count_LongCount_Max_Min和Sum.runtimeconfig.json
+F:\Unity学习\C#\5.C#高级\LINQ\LINQ 聚合运算符 Aggregate\bin\Debug\net8.0\LINQ_聚合运算符_Average_Aggregate_Count_LongCount_Max_Min和Sum.dll
+F:\Unity学习\C#\5.C#高级\LINQ\LINQ 聚合运算符 Aggregate\bin\Debug\net8.0\LINQ_聚合运算符_Average_Aggregate_Count_LongCount_Max_Min和Sum.pdb
+F:\Unity学习\C#\5.C#高级\LINQ\LINQ 聚合运算符 Aggregate\obj\Debug\net8.0\LINQ_聚合运算符_Average_Aggregate_Count_LongCount_Max_Min和Sum.GeneratedMSBuildEditorConfig.editorconfig
+F:\Unity学习\C#\5.C#高级\LINQ\LINQ 聚合运算符 Aggregate\obj\Debug\net8.0\LINQ_聚合运算符_Average_Aggregate_Count_LongCount_Max_Min和Sum.AssemblyInfoInputs.cache
+F:\Unity学习\C#\5.C#高级\LINQ\LINQ 聚合运算符 Aggregate\obj\Debug\net8.0\LINQ_聚合运算符_Average_Aggregate_Count_LongCount_Max_Min和Sum.AssemblyInfo.cs
+F:\Unity学习\C#\5.C#高级\LINQ\LINQ 聚合运算符 Aggregate\obj\Debug\net8.0\LINQ_聚合运算符_Average_Aggregate_Count_LongCount_Max_Min和Sum.csproj.CoreCompileInputs.cache
+F:\Unity学习\C#\5.C#高级\LINQ\LINQ 聚合运算符 Aggregate\obj\Debug\net8.0\LINQ_聚合运算符_Average_Aggregate_Count_LongCount_Max_Min和Sum.dll
+F:\Unity学习\C#\5.C#高级\LINQ\LINQ 聚合运算符 Aggregate\obj\Debug\net8.0\refint\LINQ_聚合运算符_Average_Aggregate_Count_LongCount_Max_Min和Sum.dll
+F:\Unity学习\C#\5.C#高级\LINQ\LINQ 聚合运算符 Aggregate\obj\Debug\net8.0\LINQ_聚合运算符_Average_Aggregate_Count_LongCount_Max_Min和Sum.pdb
+F:\Unity学习\C#\5.C#高级\LINQ\LINQ 聚合运算符 Aggregate\obj\Debug\net8.0\LINQ_聚合运算符_Average_Aggregate_Count_LongCount_Max_Min和Sum.genruntimeconfig.cache
+F:\Unity学习\C#\5.C#高级\LINQ\LINQ 聚合运算符 Aggregate\obj\Debug\net8.0\ref\LINQ_聚合运算符_Average_Aggregate_Count_LongCount_Max_Min和Sum.dll

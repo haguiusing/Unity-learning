@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "LINQ Set运算符 Distinct Except Intersect Union/1.0.0": {
+        "runtime": {
+          "LINQ Set运算符 Distinct Except Intersect Union.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LINQ Set运算符 Distinct Except Intersect Union/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

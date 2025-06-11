@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Unity\u5B66\u4E60\\C#\\5.C#\u9AD8\u7EA7\\LINQ\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2A208913-D352-4865-8D47-D48245F5E54D}|LINQ \u67E5\u8BE2\u793A\u4F8B\\LINQ \u67E5\u8BE2\u793A\u4F8B.csproj|f:\\unity\u5B66\u4E60\\c#\\5.c#\u9AD8\u7EA7\\linq\\linq \u67E5\u8BE2\u793A\u4F8B\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A208913-D352-4865-8D47-D48245F5E54D}|LINQ \u67E5\u8BE2\u793A\u4F8B\\LINQ \u67E5\u8BE2\u793A\u4F8B.csproj|solutionrelative:linq \u67E5\u8BE2\u793A\u4F8B\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE0FE365-CD30-4E77-BCD2-762D115A2781}|LINQ \u5206\u7EC4\u8FD0\u7B97\u7B26 GroupBy\u548CToLookup\\LINQ \u5206\u7EC4\u8FD0\u7B97\u7B26 GroupBy\u548CToLookup.csproj|f:\\unity\u5B66\u4E60\\c#\\5.c#\u9AD8\u7EA7\\linq\\linq \u5206\u7EC4\u8FD0\u7B97\u7B26 groupby\u548Ctolookup\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE0FE365-CD30-4E77-BCD2-762D115A2781}|LINQ \u5206\u7EC4\u8FD0\u7B97\u7B26 GroupBy\u548CToLookup\\LINQ \u5206\u7EC4\u8FD0\u7B97\u7B26 GroupBy\u548CToLookup.csproj|solutionrelative:linq \u5206\u7EC4\u8FD0\u7B97\u7B26 groupby\u548Ctolookup\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FD59BC8-F532-4FC3-811B-F6EBA2DB030D}|LINQ into \u5173\u952E\u5B57\\LINQ into \u5173\u952E\u5B57.csproj|f:\\unity\u5B66\u4E60\\c#\\5.c#\u9AD8\u7EA7\\linq\\linq into \u5173\u952E\u5B57\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FD59BC8-F532-4FC3-811B-F6EBA2DB030D}|LINQ into \u5173\u952E\u5B57\\LINQ into \u5173\u952E\u5B57.csproj|solutionrelative:linq into \u5173\u952E\u5B57\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E2DBC4B-C805-4B18-9435-33F2AE5D266D}|LINQ let \u5173\u952E\u5B57\\LINQ let \u5173\u952E\u5B57.csproj|f:\\unity\u5B66\u4E60\\c#\\5.c#\u9AD8\u7EA7\\linq\\linq let \u5173\u952E\u5B57\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E2DBC4B-C805-4B18-9435-33F2AE5D266D}|LINQ let \u5173\u952E\u5B57\\LINQ let \u5173\u952E\u5B57.csproj|solutionrelative:linq let \u5173\u952E\u5B57\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5457122E-4863-499B-B769-0E6B6BBED174}|LINQ \u7ACB\u5373\u6267\u884C\u67E5\u8BE2\\LINQ \u7ACB\u5373\u6267\u884C\u67E5\u8BE2.csproj|f:\\unity\u5B66\u4E60\\c#\\5.c#\u9AD8\u7EA7\\linq\\linq \u7ACB\u5373\u6267\u884C\u67E5\u8BE2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5457122E-4863-499B-B769-0E6B6BBED174}|LINQ \u7ACB\u5373\u6267\u884C\u67E5\u8BE2\\LINQ \u7ACB\u5373\u6267\u884C\u67E5\u8BE2.csproj|solutionrelative:linq \u7ACB\u5373\u6267\u884C\u67E5\u8BE2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54A8D83C-9CB0-4A02-AD01-D494480B7B90}|LINQ \u8868\u8FBE\u5F0F\u6811\\LINQ \u8868\u8FBE\u5F0F\u6811.csproj|f:\\unity\u5B66\u4E60\\c#\\5.c#\u9AD8\u7EA7\\linq\\linq \u8868\u8FBE\u5F0F\u6811\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54A8D83C-9CB0-4A02-AD01-D494480B7B90}|LINQ \u8868\u8FBE\u5F0F\u6811\\LINQ \u8868\u8FBE\u5F0F\u6811.csproj|solutionrelative:linq \u8868\u8FBE\u5F0F\u6811\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DCA41AF-7B57-4211-B093-4F8E7ED29431}|LINQ \u8868\u8FBE\u5F0F_Expression\\LINQ \u8868\u8FBE\u5F0F_Expression.csproj|f:\\unity\u5B66\u4E60\\c#\\5.c#\u9AD8\u7EA7\\linq\\linq \u8868\u8FBE\u5F0F_expression\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DCA41AF-7B57-4211-B093-4F8E7ED29431}|LINQ \u8868\u8FBE\u5F0F_Expression\\LINQ \u8868\u8FBE\u5F0F_Expression.csproj|solutionrelative:linq \u8868\u8FBE\u5F0F_expression\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Unity\u5B66\u4E60\\C#\\5.C#\u9AD8\u7EA7\\LINQ\\LINQ \u5206\u7EC4\u8FD0\u7B97\u7B26 GroupBy\u548CToLookup\\Program.cs",
+              "RelativeDocumentMoniker": "LINQ \u5206\u7EC4\u8FD0\u7B97\u7B26 GroupBy\u548CToLookup\\Program.cs",
+              "ToolTip": "F:\\Unity\u5B66\u4E60\\C#\\5.C#\u9AD8\u7EA7\\LINQ\\LINQ \u5206\u7EC4\u8FD0\u7B97\u7B26 GroupBy\u548CToLookup\\Program.cs",
+              "RelativeToolTip": "LINQ \u5206\u7EC4\u8FD0\u7B97\u7B26 GroupBy\u548CToLookup\\Program.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAAwE8AAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T11:51:27.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Unity\u5B66\u4E60\\C#\\5.C#\u9AD8\u7EA7\\LINQ\\LINQ \u67E5\u8BE2\u793A\u4F8B\\Program.cs",
+              "RelativeDocumentMoniker": "LINQ \u67E5\u8BE2\u793A\u4F8B\\Program.cs",
+              "ToolTip": "F:\\Unity\u5B66\u4E60\\C#\\5.C#\u9AD8\u7EA7\\LINQ\\LINQ \u67E5\u8BE2\u793A\u4F8B\\Program.cs",
+              "RelativeToolTip": "LINQ \u67E5\u8BE2\u793A\u4F8B\\Program.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAYwDsAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T10:06:50.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Unity\u5B66\u4E60\\C#\\5.C#\u9AD8\u7EA7\\LINQ\\LINQ into \u5173\u952E\u5B57\\Program.cs",
+              "RelativeDocumentMoniker": "LINQ into \u5173\u952E\u5B57\\Program.cs",
+              "ToolTip": "F:\\Unity\u5B66\u4E60\\C#\\5.C#\u9AD8\u7EA7\\LINQ\\LINQ into \u5173\u952E\u5B57\\Program.cs",
+              "RelativeToolTip": "LINQ into \u5173\u952E\u5B57\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T10:02:10.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Unity\u5B66\u4E60\\C#\\5.C#\u9AD8\u7EA7\\LINQ\\LINQ let \u5173\u952E\u5B57\\Program.cs",
+              "RelativeDocumentMoniker": "LINQ let \u5173\u952E\u5B57\\Program.cs",
+              "ToolTip": "F:\\Unity\u5B66\u4E60\\C#\\5.C#\u9AD8\u7EA7\\LINQ\\LINQ let \u5173\u952E\u5B57\\Program.cs",
+              "RelativeToolTip": "LINQ let \u5173\u952E\u5B57\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAQwBIAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T09:57:43.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Unity\u5B66\u4E60\\C#\\5.C#\u9AD8\u7EA7\\LINQ\\LINQ \u7ACB\u5373\u6267\u884C\u67E5\u8BE2\\Program.cs",
+              "RelativeDocumentMoniker": "LINQ \u7ACB\u5373\u6267\u884C\u67E5\u8BE2\\Program.cs",
+              "ToolTip": "F:\\Unity\u5B66\u4E60\\C#\\5.C#\u9AD8\u7EA7\\LINQ\\LINQ \u7ACB\u5373\u6267\u884C\u67E5\u8BE2\\Program.cs",
+              "RelativeToolTip": "LINQ \u7ACB\u5373\u6267\u884C\u67E5\u8BE2\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAwCAAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T09:53:08.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Unity\u5B66\u4E60\\C#\\5.C#\u9AD8\u7EA7\\LINQ\\LINQ \u8868\u8FBE\u5F0F\u6811\\Program.cs",
+              "RelativeDocumentMoniker": "LINQ \u8868\u8FBE\u5F0F\u6811\\Program.cs",
+              "ToolTip": "F:\\Unity\u5B66\u4E60\\C#\\5.C#\u9AD8\u7EA7\\LINQ\\LINQ \u8868\u8FBE\u5F0F\u6811\\Program.cs",
+              "RelativeToolTip": "LINQ \u8868\u8FBE\u5F0F\u6811\\Program.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAIwEQAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T08:41:23.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Unity\u5B66\u4E60\\C#\\5.C#\u9AD8\u7EA7\\LINQ\\LINQ \u8868\u8FBE\u5F0F_Expression\\Program.cs",
+              "RelativeDocumentMoniker": "LINQ \u8868\u8FBE\u5F0F_Expression\\Program.cs",
+              "ToolTip": "F:\\Unity\u5B66\u4E60\\C#\\5.C#\u9AD8\u7EA7\\LINQ\\LINQ \u8868\u8FBE\u5F0F_Expression\\Program.cs",
+              "RelativeToolTip": "LINQ \u8868\u8FBE\u5F0F_Expression\\Program.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAIwDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T08:34:09.064Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

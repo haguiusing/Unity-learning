@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "LINQ 生成运算符 Empty_Range_Repeat/1.0.0": {
+        "runtime": {
+          "LINQ 生成运算符 Empty_Range_Repeat.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LINQ 生成运算符 Empty_Range_Repeat/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

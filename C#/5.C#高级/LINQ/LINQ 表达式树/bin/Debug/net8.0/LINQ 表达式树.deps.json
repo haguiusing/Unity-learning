@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "LINQ 表达式树/1.0.0": {
+        "runtime": {
+          "LINQ 表达式树.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LINQ 表达式树/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
