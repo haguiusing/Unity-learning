@@ -1,0 +1,14 @@
+F:\Unity学习\C#\1.C#入门\C#入门\Lesson3_变量的本质\bin\Debug\net6.0\Lesson3_变量的本质.exe
+F:\Unity学习\C#\1.C#入门\C#入门\Lesson3_变量的本质\bin\Debug\net6.0\Lesson3_变量的本质.deps.json
+F:\Unity学习\C#\1.C#入门\C#入门\Lesson3_变量的本质\bin\Debug\net6.0\Lesson3_变量的本质.runtimeconfig.json
+F:\Unity学习\C#\1.C#入门\C#入门\Lesson3_变量的本质\bin\Debug\net6.0\Lesson3_变量的本质.dll
+F:\Unity学习\C#\1.C#入门\C#入门\Lesson3_变量的本质\bin\Debug\net6.0\Lesson3_变量的本质.pdb
+F:\Unity学习\C#\1.C#入门\C#入门\Lesson3_变量的本质\obj\Debug\net6.0\Lesson3_变量的本质.GeneratedMSBuildEditorConfig.editorconfig
+F:\Unity学习\C#\1.C#入门\C#入门\Lesson3_变量的本质\obj\Debug\net6.0\Lesson3_变量的本质.AssemblyInfoInputs.cache
+F:\Unity学习\C#\1.C#入门\C#入门\Lesson3_变量的本质\obj\Debug\net6.0\Lesson3_变量的本质.AssemblyInfo.cs
+F:\Unity学习\C#\1.C#入门\C#入门\Lesson3_变量的本质\obj\Debug\net6.0\Lesson3_变量的本质.csproj.CoreCompileInputs.cache
+F:\Unity学习\C#\1.C#入门\C#入门\Lesson3_变量的本质\obj\Debug\net6.0\Lesson3_变量的本质.dll
+F:\Unity学习\C#\1.C#入门\C#入门\Lesson3_变量的本质\obj\Debug\net6.0\refint\Lesson3_变量的本质.dll
+F:\Unity学习\C#\1.C#入门\C#入门\Lesson3_变量的本质\obj\Debug\net6.0\Lesson3_变量的本质.pdb
+F:\Unity学习\C#\1.C#入门\C#入门\Lesson3_变量的本质\obj\Debug\net6.0\Lesson3_变量的本质.genruntimeconfig.cache
+F:\Unity学习\C#\1.C#入门\C#入门\Lesson3_变量的本质\obj\Debug\net6.0\ref\Lesson3_变量的本质.dll

@@ -1,0 +1,14 @@
+F:\Unity学习\C#\3.C#核心\C#核心\Lesson1_练习题\bin\Debug\net8.0\Lesson1_练习题.exe
+F:\Unity学习\C#\3.C#核心\C#核心\Lesson1_练习题\bin\Debug\net8.0\Lesson1_练习题.deps.json
+F:\Unity学习\C#\3.C#核心\C#核心\Lesson1_练习题\bin\Debug\net8.0\Lesson1_练习题.runtimeconfig.json
+F:\Unity学习\C#\3.C#核心\C#核心\Lesson1_练习题\bin\Debug\net8.0\Lesson1_练习题.dll
+F:\Unity学习\C#\3.C#核心\C#核心\Lesson1_练习题\bin\Debug\net8.0\Lesson1_练习题.pdb
+F:\Unity学习\C#\3.C#核心\C#核心\Lesson1_练习题\obj\Debug\net8.0\Lesson1_练习题.GeneratedMSBuildEditorConfig.editorconfig
+F:\Unity学习\C#\3.C#核心\C#核心\Lesson1_练习题\obj\Debug\net8.0\Lesson1_练习题.AssemblyInfoInputs.cache
+F:\Unity学习\C#\3.C#核心\C#核心\Lesson1_练习题\obj\Debug\net8.0\Lesson1_练习题.AssemblyInfo.cs
+F:\Unity学习\C#\3.C#核心\C#核心\Lesson1_练习题\obj\Debug\net8.0\Lesson1_练习题.csproj.CoreCompileInputs.cache
+F:\Unity学习\C#\3.C#核心\C#核心\Lesson1_练习题\obj\Debug\net8.0\Lesson1_练习题.dll
+F:\Unity学习\C#\3.C#核心\C#核心\Lesson1_练习题\obj\Debug\net8.0\refint\Lesson1_练习题.dll
+F:\Unity学习\C#\3.C#核心\C#核心\Lesson1_练习题\obj\Debug\net8.0\Lesson1_练习题.pdb
+F:\Unity学习\C#\3.C#核心\C#核心\Lesson1_练习题\obj\Debug\net8.0\Lesson1_练习题.genruntimeconfig.cache
+F:\Unity学习\C#\3.C#核心\C#核心\Lesson1_练习题\obj\Debug\net8.0\ref\Lesson1_练习题.dll

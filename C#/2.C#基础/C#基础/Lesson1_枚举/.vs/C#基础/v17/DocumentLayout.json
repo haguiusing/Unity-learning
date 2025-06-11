@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Unity\u5B66\u4E60\\C#\\2.C#\u57FA\u7840\\C#\u57FA\u7840\\Lesson1_\u679A\u4E3E\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D166ABEE-BF65-4B9F-9964-8568EAB4723C}|Lesson12_\u7ED3\u6784\u4F53\\Lesson12_\u7ED3\u6784\u4F53.csproj|f:\\unity\u5B66\u4E60\\c#\\2.c#\u57FA\u7840\\c#\u57FA\u7840\\lesson1_\u679A\u4E3E\\lesson12_\u7ED3\u6784\u4F53\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D166ABEE-BF65-4B9F-9964-8568EAB4723C}|Lesson12_\u7ED3\u6784\u4F53\\Lesson12_\u7ED3\u6784\u4F53.csproj|solutionrelative:lesson12_\u7ED3\u6784\u4F53\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAE37F46-9CF5-42D4-8BC6-DF9A6D38067C}|Lesson9_\u53D8\u957F\u53C2\u6570\u548C\u53C2\u6570\u9ED8\u8BA4\u503C\\Lesson9_\u53D8\u957F\u53C2\u6570\u548C\u53C2\u6570\u9ED8\u8BA4\u503C.csproj|f:\\unity\u5B66\u4E60\\c#\\2.c#\u57FA\u7840\\c#\u57FA\u7840\\lesson1_\u679A\u4E3E\\lesson9_\u53D8\u957F\u53C2\u6570\u548C\u53C2\u6570\u9ED8\u8BA4\u503C\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAE37F46-9CF5-42D4-8BC6-DF9A6D38067C}|Lesson9_\u53D8\u957F\u53C2\u6570\u548C\u53C2\u6570\u9ED8\u8BA4\u503C\\Lesson9_\u53D8\u957F\u53C2\u6570\u548C\u53C2\u6570\u9ED8\u8BA4\u503C.csproj|solutionrelative:lesson9_\u53D8\u957F\u53C2\u6570\u548C\u53C2\u6570\u9ED8\u8BA4\u503C\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9596F4A4-9524-48E8-B325-C154E361F2E3}|Lesson8_ref\u548Cout\\Lesson8_ref\u548Cout.csproj|f:\\unity\u5B66\u4E60\\c#\\2.c#\u57FA\u7840\\c#\u57FA\u7840\\lesson1_\u679A\u4E3E\\lesson8_ref\u548Cout\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9596F4A4-9524-48E8-B325-C154E361F2E3}|Lesson8_ref\u548Cout\\Lesson8_ref\u548Cout.csproj|solutionrelative:lesson8_ref\u548Cout\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12D1BC72-BBC7-4463-BEF0-BABD2D8346BF}|Lesson7_\u51FD\u6570\\Lesson7_\u51FD\u6570.csproj|f:\\unity\u5B66\u4E60\\c#\\2.c#\u57FA\u7840\\c#\u57FA\u7840\\lesson1_\u679A\u4E3E\\lesson7_\u51FD\u6570\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12D1BC72-BBC7-4463-BEF0-BABD2D8346BF}|Lesson7_\u51FD\u6570\\Lesson7_\u51FD\u6570.csproj|solutionrelative:lesson7_\u51FD\u6570\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Unity\u5B66\u4E60\\C#\\2.C#\u57FA\u7840\\C#\u57FA\u7840\\Lesson1_\u679A\u4E3E\\Lesson12_\u7ED3\u6784\u4F53\\Program.cs",
+              "RelativeDocumentMoniker": "Lesson12_\u7ED3\u6784\u4F53\\Program.cs",
+              "ToolTip": "F:\\Unity\u5B66\u4E60\\C#\\2.C#\u57FA\u7840\\C#\u57FA\u7840\\Lesson1_\u679A\u4E3E\\Lesson12_\u7ED3\u6784\u4F53\\Program.cs",
+              "RelativeToolTip": "Lesson12_\u7ED3\u6784\u4F53\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T08:58:28.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Unity\u5B66\u4E60\\C#\\2.C#\u57FA\u7840\\C#\u57FA\u7840\\Lesson1_\u679A\u4E3E\\Lesson9_\u53D8\u957F\u53C2\u6570\u548C\u53C2\u6570\u9ED8\u8BA4\u503C\\Program.cs",
+              "RelativeDocumentMoniker": "Lesson9_\u53D8\u957F\u53C2\u6570\u548C\u53C2\u6570\u9ED8\u8BA4\u503C\\Program.cs",
+              "ToolTip": "F:\\Unity\u5B66\u4E60\\C#\\2.C#\u57FA\u7840\\C#\u57FA\u7840\\Lesson1_\u679A\u4E3E\\Lesson9_\u53D8\u957F\u53C2\u6570\u548C\u53C2\u6570\u9ED8\u8BA4\u503C\\Program.cs",
+              "RelativeToolTip": "Lesson9_\u53D8\u957F\u53C2\u6570\u548C\u53C2\u6570\u9ED8\u8BA4\u503C\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAADwvwgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T08:52:52.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Unity\u5B66\u4E60\\C#\\2.C#\u57FA\u7840\\C#\u57FA\u7840\\Lesson1_\u679A\u4E3E\\Lesson8_ref\u548Cout\\Program.cs",
+              "RelativeDocumentMoniker": "Lesson8_ref\u548Cout\\Program.cs",
+              "ToolTip": "F:\\Unity\u5B66\u4E60\\C#\\2.C#\u57FA\u7840\\C#\u57FA\u7840\\Lesson1_\u679A\u4E3E\\Lesson8_ref\u548Cout\\Program.cs",
+              "RelativeToolTip": "Lesson8_ref\u548Cout\\Program.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T08:51:08.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Unity\u5B66\u4E60\\C#\\2.C#\u57FA\u7840\\C#\u57FA\u7840\\Lesson1_\u679A\u4E3E\\Lesson7_\u51FD\u6570\\Program.cs",
+              "RelativeDocumentMoniker": "Lesson7_\u51FD\u6570\\Program.cs",
+              "ToolTip": "F:\\Unity\u5B66\u4E60\\C#\\2.C#\u57FA\u7840\\C#\u57FA\u7840\\Lesson1_\u679A\u4E3E\\Lesson7_\u51FD\u6570\\Program.cs",
+              "RelativeToolTip": "Lesson7_\u51FD\u6570\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T08:50:22.54Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

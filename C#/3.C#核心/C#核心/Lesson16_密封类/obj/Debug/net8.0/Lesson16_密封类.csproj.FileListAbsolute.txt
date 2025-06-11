@@ -1,0 +1,14 @@
+F:\Unity学习\C#\3.C#核心\C#核心\Lesson16_密封类\bin\Debug\net8.0\Lesson16_密封类.exe
+F:\Unity学习\C#\3.C#核心\C#核心\Lesson16_密封类\bin\Debug\net8.0\Lesson16_密封类.deps.json
+F:\Unity学习\C#\3.C#核心\C#核心\Lesson16_密封类\bin\Debug\net8.0\Lesson16_密封类.runtimeconfig.json
+F:\Unity学习\C#\3.C#核心\C#核心\Lesson16_密封类\bin\Debug\net8.0\Lesson16_密封类.dll
+F:\Unity学习\C#\3.C#核心\C#核心\Lesson16_密封类\bin\Debug\net8.0\Lesson16_密封类.pdb
+F:\Unity学习\C#\3.C#核心\C#核心\Lesson16_密封类\obj\Debug\net8.0\Lesson16_密封类.GeneratedMSBuildEditorConfig.editorconfig
+F:\Unity学习\C#\3.C#核心\C#核心\Lesson16_密封类\obj\Debug\net8.0\Lesson16_密封类.AssemblyInfoInputs.cache
+F:\Unity学习\C#\3.C#核心\C#核心\Lesson16_密封类\obj\Debug\net8.0\Lesson16_密封类.AssemblyInfo.cs
+F:\Unity学习\C#\3.C#核心\C#核心\Lesson16_密封类\obj\Debug\net8.0\Lesson16_密封类.csproj.CoreCompileInputs.cache
+F:\Unity学习\C#\3.C#核心\C#核心\Lesson16_密封类\obj\Debug\net8.0\Lesson16_密封类.dll
+F:\Unity学习\C#\3.C#核心\C#核心\Lesson16_密封类\obj\Debug\net8.0\refint\Lesson16_密封类.dll
+F:\Unity学习\C#\3.C#核心\C#核心\Lesson16_密封类\obj\Debug\net8.0\Lesson16_密封类.pdb
+F:\Unity学习\C#\3.C#核心\C#核心\Lesson16_密封类\obj\Debug\net8.0\Lesson16_密封类.genruntimeconfig.cache
+F:\Unity学习\C#\3.C#核心\C#核心\Lesson16_密封类\obj\Debug\net8.0\ref\Lesson16_密封类.dll

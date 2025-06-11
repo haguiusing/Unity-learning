@@ -1,0 +1,14 @@
+F:\Unity学习\C#\2.C#基础\C#基础\Lesson1_枚举\Lesson8_ref和out\bin\Debug\net6.0\Lesson8_ref和out.exe
+F:\Unity学习\C#\2.C#基础\C#基础\Lesson1_枚举\Lesson8_ref和out\bin\Debug\net6.0\Lesson8_ref和out.deps.json
+F:\Unity学习\C#\2.C#基础\C#基础\Lesson1_枚举\Lesson8_ref和out\bin\Debug\net6.0\Lesson8_ref和out.runtimeconfig.json
+F:\Unity学习\C#\2.C#基础\C#基础\Lesson1_枚举\Lesson8_ref和out\bin\Debug\net6.0\Lesson8_ref和out.dll
+F:\Unity学习\C#\2.C#基础\C#基础\Lesson1_枚举\Lesson8_ref和out\bin\Debug\net6.0\Lesson8_ref和out.pdb
+F:\Unity学习\C#\2.C#基础\C#基础\Lesson1_枚举\Lesson8_ref和out\obj\Debug\net6.0\Lesson8_ref和out.GeneratedMSBuildEditorConfig.editorconfig
+F:\Unity学习\C#\2.C#基础\C#基础\Lesson1_枚举\Lesson8_ref和out\obj\Debug\net6.0\Lesson8_ref和out.AssemblyInfoInputs.cache
+F:\Unity学习\C#\2.C#基础\C#基础\Lesson1_枚举\Lesson8_ref和out\obj\Debug\net6.0\Lesson8_ref和out.AssemblyInfo.cs
+F:\Unity学习\C#\2.C#基础\C#基础\Lesson1_枚举\Lesson8_ref和out\obj\Debug\net6.0\Lesson8_ref和out.csproj.CoreCompileInputs.cache
+F:\Unity学习\C#\2.C#基础\C#基础\Lesson1_枚举\Lesson8_ref和out\obj\Debug\net6.0\Lesson8_ref和out.dll
+F:\Unity学习\C#\2.C#基础\C#基础\Lesson1_枚举\Lesson8_ref和out\obj\Debug\net6.0\refint\Lesson8_ref和out.dll
+F:\Unity学习\C#\2.C#基础\C#基础\Lesson1_枚举\Lesson8_ref和out\obj\Debug\net6.0\Lesson8_ref和out.pdb
+F:\Unity学习\C#\2.C#基础\C#基础\Lesson1_枚举\Lesson8_ref和out\obj\Debug\net6.0\Lesson8_ref和out.genruntimeconfig.cache
+F:\Unity学习\C#\2.C#基础\C#基础\Lesson1_枚举\Lesson8_ref和out\obj\Debug\net6.0\ref\Lesson8_ref和out.dll

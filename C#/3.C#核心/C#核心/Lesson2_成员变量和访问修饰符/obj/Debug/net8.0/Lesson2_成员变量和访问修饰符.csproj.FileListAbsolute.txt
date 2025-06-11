@@ -1,0 +1,14 @@
+F:\Unity学习\C#\3.C#核心\C#核心\Lesson2_成员变量和访问修饰符\bin\Debug\net8.0\Lesson2_成员变量和访问修饰符.exe
+F:\Unity学习\C#\3.C#核心\C#核心\Lesson2_成员变量和访问修饰符\bin\Debug\net8.0\Lesson2_成员变量和访问修饰符.deps.json
+F:\Unity学习\C#\3.C#核心\C#核心\Lesson2_成员变量和访问修饰符\bin\Debug\net8.0\Lesson2_成员变量和访问修饰符.runtimeconfig.json
+F:\Unity学习\C#\3.C#核心\C#核心\Lesson2_成员变量和访问修饰符\bin\Debug\net8.0\Lesson2_成员变量和访问修饰符.dll
+F:\Unity学习\C#\3.C#核心\C#核心\Lesson2_成员变量和访问修饰符\bin\Debug\net8.0\Lesson2_成员变量和访问修饰符.pdb
+F:\Unity学习\C#\3.C#核心\C#核心\Lesson2_成员变量和访问修饰符\obj\Debug\net8.0\Lesson2_成员变量和访问修饰符.GeneratedMSBuildEditorConfig.editorconfig
+F:\Unity学习\C#\3.C#核心\C#核心\Lesson2_成员变量和访问修饰符\obj\Debug\net8.0\Lesson2_成员变量和访问修饰符.AssemblyInfoInputs.cache
+F:\Unity学习\C#\3.C#核心\C#核心\Lesson2_成员变量和访问修饰符\obj\Debug\net8.0\Lesson2_成员变量和访问修饰符.AssemblyInfo.cs
+F:\Unity学习\C#\3.C#核心\C#核心\Lesson2_成员变量和访问修饰符\obj\Debug\net8.0\Lesson2_成员变量和访问修饰符.csproj.CoreCompileInputs.cache
+F:\Unity学习\C#\3.C#核心\C#核心\Lesson2_成员变量和访问修饰符\obj\Debug\net8.0\Lesson2_成员变量和访问修饰符.dll
+F:\Unity学习\C#\3.C#核心\C#核心\Lesson2_成员变量和访问修饰符\obj\Debug\net8.0\refint\Lesson2_成员变量和访问修饰符.dll
+F:\Unity学习\C#\3.C#核心\C#核心\Lesson2_成员变量和访问修饰符\obj\Debug\net8.0\Lesson2_成员变量和访问修饰符.pdb
+F:\Unity学习\C#\3.C#核心\C#核心\Lesson2_成员变量和访问修饰符\obj\Debug\net8.0\Lesson2_成员变量和访问修饰符.genruntimeconfig.cache
+F:\Unity学习\C#\3.C#核心\C#核心\Lesson2_成员变量和访问修饰符\obj\Debug\net8.0\ref\Lesson2_成员变量和访问修饰符.dll

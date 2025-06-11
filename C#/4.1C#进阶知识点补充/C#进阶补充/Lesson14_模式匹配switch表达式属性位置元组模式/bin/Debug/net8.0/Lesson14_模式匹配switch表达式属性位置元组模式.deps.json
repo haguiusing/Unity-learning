@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Lesson14_模式匹配switch表达式属性位置元组模式/1.0.0": {
+        "runtime": {
+          "Lesson14_模式匹配switch表达式属性位置元组模式.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lesson14_模式匹配switch表达式属性位置元组模式/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

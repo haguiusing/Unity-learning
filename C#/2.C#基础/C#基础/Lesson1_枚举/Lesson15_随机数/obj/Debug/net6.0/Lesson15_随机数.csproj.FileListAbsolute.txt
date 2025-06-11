@@ -1,0 +1,14 @@
+F:\Unity学习\C#\2.C#基础\C#基础\Lesson1_枚举\Lesson15_随机数\bin\Debug\net6.0\Lesson15_随机数.exe
+F:\Unity学习\C#\2.C#基础\C#基础\Lesson1_枚举\Lesson15_随机数\bin\Debug\net6.0\Lesson15_随机数.deps.json
+F:\Unity学习\C#\2.C#基础\C#基础\Lesson1_枚举\Lesson15_随机数\bin\Debug\net6.0\Lesson15_随机数.runtimeconfig.json
+F:\Unity学习\C#\2.C#基础\C#基础\Lesson1_枚举\Lesson15_随机数\bin\Debug\net6.0\Lesson15_随机数.dll
+F:\Unity学习\C#\2.C#基础\C#基础\Lesson1_枚举\Lesson15_随机数\bin\Debug\net6.0\Lesson15_随机数.pdb
+F:\Unity学习\C#\2.C#基础\C#基础\Lesson1_枚举\Lesson15_随机数\obj\Debug\net6.0\Lesson15_随机数.GeneratedMSBuildEditorConfig.editorconfig
+F:\Unity学习\C#\2.C#基础\C#基础\Lesson1_枚举\Lesson15_随机数\obj\Debug\net6.0\Lesson15_随机数.AssemblyInfoInputs.cache
+F:\Unity学习\C#\2.C#基础\C#基础\Lesson1_枚举\Lesson15_随机数\obj\Debug\net6.0\Lesson15_随机数.AssemblyInfo.cs
+F:\Unity学习\C#\2.C#基础\C#基础\Lesson1_枚举\Lesson15_随机数\obj\Debug\net6.0\Lesson15_随机数.csproj.CoreCompileInputs.cache
+F:\Unity学习\C#\2.C#基础\C#基础\Lesson1_枚举\Lesson15_随机数\obj\Debug\net6.0\Lesson15_随机数.dll
+F:\Unity学习\C#\2.C#基础\C#基础\Lesson1_枚举\Lesson15_随机数\obj\Debug\net6.0\refint\Lesson15_随机数.dll
+F:\Unity学习\C#\2.C#基础\C#基础\Lesson1_枚举\Lesson15_随机数\obj\Debug\net6.0\Lesson15_随机数.pdb
+F:\Unity学习\C#\2.C#基础\C#基础\Lesson1_枚举\Lesson15_随机数\obj\Debug\net6.0\Lesson15_随机数.genruntimeconfig.cache
+F:\Unity学习\C#\2.C#基础\C#基础\Lesson1_枚举\Lesson15_随机数\obj\Debug\net6.0\ref\Lesson15_随机数.dll

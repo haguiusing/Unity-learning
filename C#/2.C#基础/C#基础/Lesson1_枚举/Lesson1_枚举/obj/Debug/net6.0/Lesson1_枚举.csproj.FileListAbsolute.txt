@@ -1,0 +1,14 @@
+F:\Unity学习\C#\2.C#基础\C#基础\Lesson1_枚举\Lesson1_枚举\bin\Debug\net6.0\Lesson1_枚举.exe
+F:\Unity学习\C#\2.C#基础\C#基础\Lesson1_枚举\Lesson1_枚举\bin\Debug\net6.0\Lesson1_枚举.deps.json
+F:\Unity学习\C#\2.C#基础\C#基础\Lesson1_枚举\Lesson1_枚举\bin\Debug\net6.0\Lesson1_枚举.runtimeconfig.json
+F:\Unity学习\C#\2.C#基础\C#基础\Lesson1_枚举\Lesson1_枚举\bin\Debug\net6.0\Lesson1_枚举.dll
+F:\Unity学习\C#\2.C#基础\C#基础\Lesson1_枚举\Lesson1_枚举\bin\Debug\net6.0\Lesson1_枚举.pdb
+F:\Unity学习\C#\2.C#基础\C#基础\Lesson1_枚举\Lesson1_枚举\obj\Debug\net6.0\Lesson1_枚举.GeneratedMSBuildEditorConfig.editorconfig
+F:\Unity学习\C#\2.C#基础\C#基础\Lesson1_枚举\Lesson1_枚举\obj\Debug\net6.0\Lesson1_枚举.AssemblyInfoInputs.cache
+F:\Unity学习\C#\2.C#基础\C#基础\Lesson1_枚举\Lesson1_枚举\obj\Debug\net6.0\Lesson1_枚举.AssemblyInfo.cs
+F:\Unity学习\C#\2.C#基础\C#基础\Lesson1_枚举\Lesson1_枚举\obj\Debug\net6.0\Lesson1_枚举.csproj.CoreCompileInputs.cache
+F:\Unity学习\C#\2.C#基础\C#基础\Lesson1_枚举\Lesson1_枚举\obj\Debug\net6.0\Lesson1_枚举.dll
+F:\Unity学习\C#\2.C#基础\C#基础\Lesson1_枚举\Lesson1_枚举\obj\Debug\net6.0\refint\Lesson1_枚举.dll
+F:\Unity学习\C#\2.C#基础\C#基础\Lesson1_枚举\Lesson1_枚举\obj\Debug\net6.0\Lesson1_枚举.pdb
+F:\Unity学习\C#\2.C#基础\C#基础\Lesson1_枚举\Lesson1_枚举\obj\Debug\net6.0\Lesson1_枚举.genruntimeconfig.cache
+F:\Unity学习\C#\2.C#基础\C#基础\Lesson1_枚举\Lesson1_枚举\obj\Debug\net6.0\ref\Lesson1_枚举.dll

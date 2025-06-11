@@ -1,0 +1,14 @@
+F:\Unity学习\C#\3.C#核心\C#核心\Lesson5_成员属性\bin\Debug\net8.0\Lesson5_成员属性.exe
+F:\Unity学习\C#\3.C#核心\C#核心\Lesson5_成员属性\bin\Debug\net8.0\Lesson5_成员属性.deps.json
+F:\Unity学习\C#\3.C#核心\C#核心\Lesson5_成员属性\bin\Debug\net8.0\Lesson5_成员属性.runtimeconfig.json
+F:\Unity学习\C#\3.C#核心\C#核心\Lesson5_成员属性\bin\Debug\net8.0\Lesson5_成员属性.dll
+F:\Unity学习\C#\3.C#核心\C#核心\Lesson5_成员属性\bin\Debug\net8.0\Lesson5_成员属性.pdb
+F:\Unity学习\C#\3.C#核心\C#核心\Lesson5_成员属性\obj\Debug\net8.0\Lesson5_成员属性.GeneratedMSBuildEditorConfig.editorconfig
+F:\Unity学习\C#\3.C#核心\C#核心\Lesson5_成员属性\obj\Debug\net8.0\Lesson5_成员属性.AssemblyInfoInputs.cache
+F:\Unity学习\C#\3.C#核心\C#核心\Lesson5_成员属性\obj\Debug\net8.0\Lesson5_成员属性.AssemblyInfo.cs
+F:\Unity学习\C#\3.C#核心\C#核心\Lesson5_成员属性\obj\Debug\net8.0\Lesson5_成员属性.csproj.CoreCompileInputs.cache
+F:\Unity学习\C#\3.C#核心\C#核心\Lesson5_成员属性\obj\Debug\net8.0\Lesson5_成员属性.dll
+F:\Unity学习\C#\3.C#核心\C#核心\Lesson5_成员属性\obj\Debug\net8.0\refint\Lesson5_成员属性.dll
+F:\Unity学习\C#\3.C#核心\C#核心\Lesson5_成员属性\obj\Debug\net8.0\Lesson5_成员属性.pdb
+F:\Unity学习\C#\3.C#核心\C#核心\Lesson5_成员属性\obj\Debug\net8.0\Lesson5_成员属性.genruntimeconfig.cache
+F:\Unity学习\C#\3.C#核心\C#核心\Lesson5_成员属性\obj\Debug\net8.0\ref\Lesson5_成员属性.dll

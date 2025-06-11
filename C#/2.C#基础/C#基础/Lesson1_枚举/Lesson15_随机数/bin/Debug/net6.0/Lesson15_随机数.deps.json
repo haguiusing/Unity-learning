@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Lesson15_随机数/1.0.0": {
+        "runtime": {
+          "Lesson15_随机数.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lesson15_随机数/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

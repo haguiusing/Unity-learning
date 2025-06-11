@@ -1,0 +1,14 @@
+F:\Unity学习\C#\2.C#基础\C#基础\Lesson1_枚举\Lesson13_冒泡排序\bin\Debug\net6.0\Lesson13_冒泡排序.exe
+F:\Unity学习\C#\2.C#基础\C#基础\Lesson1_枚举\Lesson13_冒泡排序\bin\Debug\net6.0\Lesson13_冒泡排序.deps.json
+F:\Unity学习\C#\2.C#基础\C#基础\Lesson1_枚举\Lesson13_冒泡排序\bin\Debug\net6.0\Lesson13_冒泡排序.runtimeconfig.json
+F:\Unity学习\C#\2.C#基础\C#基础\Lesson1_枚举\Lesson13_冒泡排序\bin\Debug\net6.0\Lesson13_冒泡排序.dll
+F:\Unity学习\C#\2.C#基础\C#基础\Lesson1_枚举\Lesson13_冒泡排序\bin\Debug\net6.0\Lesson13_冒泡排序.pdb
+F:\Unity学习\C#\2.C#基础\C#基础\Lesson1_枚举\Lesson13_冒泡排序\obj\Debug\net6.0\Lesson13_冒泡排序.GeneratedMSBuildEditorConfig.editorconfig
+F:\Unity学习\C#\2.C#基础\C#基础\Lesson1_枚举\Lesson13_冒泡排序\obj\Debug\net6.0\Lesson13_冒泡排序.AssemblyInfoInputs.cache
+F:\Unity学习\C#\2.C#基础\C#基础\Lesson1_枚举\Lesson13_冒泡排序\obj\Debug\net6.0\Lesson13_冒泡排序.AssemblyInfo.cs
+F:\Unity学习\C#\2.C#基础\C#基础\Lesson1_枚举\Lesson13_冒泡排序\obj\Debug\net6.0\Lesson13_冒泡排序.csproj.CoreCompileInputs.cache
+F:\Unity学习\C#\2.C#基础\C#基础\Lesson1_枚举\Lesson13_冒泡排序\obj\Debug\net6.0\Lesson13_冒泡排序.dll
+F:\Unity学习\C#\2.C#基础\C#基础\Lesson1_枚举\Lesson13_冒泡排序\obj\Debug\net6.0\refint\Lesson13_冒泡排序.dll
+F:\Unity学习\C#\2.C#基础\C#基础\Lesson1_枚举\Lesson13_冒泡排序\obj\Debug\net6.0\Lesson13_冒泡排序.pdb
+F:\Unity学习\C#\2.C#基础\C#基础\Lesson1_枚举\Lesson13_冒泡排序\obj\Debug\net6.0\Lesson13_冒泡排序.genruntimeconfig.cache
+F:\Unity学习\C#\2.C#基础\C#基础\Lesson1_枚举\Lesson13_冒泡排序\obj\Debug\net6.0\ref\Lesson13_冒泡排序.dll

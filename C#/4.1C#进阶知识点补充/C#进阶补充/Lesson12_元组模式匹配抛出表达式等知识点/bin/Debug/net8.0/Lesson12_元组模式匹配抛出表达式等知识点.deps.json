@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Lesson12_元组模式匹配抛出表达式等知识点/1.0.0": {
+        "runtime": {
+          "Lesson12_元组模式匹配抛出表达式等知识点.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lesson12_元组模式匹配抛出表达式等知识点/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

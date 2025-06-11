@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Lesson4_IL2CPP模式可能存在的问题处理知识点/1.0.0": {
+        "runtime": {
+          "Lesson4_IL2CPP模式可能存在的问题处理知识点.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lesson4_IL2CPP模式可能存在的问题处理知识点/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

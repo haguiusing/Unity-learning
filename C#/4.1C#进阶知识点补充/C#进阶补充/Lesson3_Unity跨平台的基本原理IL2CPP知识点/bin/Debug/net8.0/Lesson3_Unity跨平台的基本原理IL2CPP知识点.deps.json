@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Lesson3_Unity跨平台的基本原理IL2CPP知识点/1.0.0": {
+        "runtime": {
+          "Lesson3_Unity跨平台的基本原理IL2CPP知识点.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lesson3_Unity跨平台的基本原理IL2CPP知识点/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
