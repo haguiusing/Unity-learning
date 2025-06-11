@@ -1,2 +1,0 @@
-[StatemachineBehavior状态机行为脚本](file:///D:/Obsidian%20Unity/Unity/Unity%E5%9B%9B%E9%83%A8%E6%9B%B2/Assets/Scripts/Unity%C2%B7%E6%A0%B8%E5%BF%83/3D%E5%8A%A8%E7%94%BB/Lesson53_StatemachineBehavior%E7%8A%B6%E6%80%81%E6%9C%BA%E8%A1%8C%E4%B8%BA%E8%84%9A%E6%9C%AC.cs)
-[举例](file:///D:/Obsidian%20Unity/Unity/Unity%E5%9B%9B%E9%83%A8%E6%9B%B2/Assets/Scripts/Unity%C2%B7%E6%A0%B8%E5%BF%83/3D%E5%8A%A8%E7%94%BB/Lesson53_StateMachineBehaviour.cs)

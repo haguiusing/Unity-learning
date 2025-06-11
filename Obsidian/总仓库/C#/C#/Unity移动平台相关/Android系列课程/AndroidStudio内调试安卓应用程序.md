@@ -1,6 +1,0 @@
-[AndroidStudio内调试安卓应用程序](file:///G:/Unity/AndroidTest/Platform_Teach/Assets/Scripts/Lesson11_AndroidStudio%20%E5%86%85%E8%B0%83%E8%AF%95%E5%AE%89%E5%8D%93%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F/Lesson11_AndroidStudio%20%E5%86%85%E8%B0%83%E8%AF%95%E5%AE%89%E5%8D%93%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F.cs)
-
-![[Pasted image 20250507193727.png]]
-![[Pasted image 20250507193534.png]]
-
-![[Pasted image 20250507194043.png]]![[Pasted image 20250507194111.png]]

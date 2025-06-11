@@ -1,1 +1,0 @@
-[ScriptableObject 让其真正意义上的持久](file:///D:/Obsidian%20Unity/Unity/Unity%E5%9B%9B%E9%83%A8%E6%9B%B2/Assets/Scripts/Unity%E8%BF%9B%E9%98%B6/ScriptableObject/Lesson4_ScriptableObject%20%E8%AE%A9%E5%85%B6%E7%9C%9F%E6%AD%A3%E6%84%8F%E4%B9%89%E4%B8%8A%E7%9A%84%E6%8C%81%E4%B9%85/Lesson4.cs)

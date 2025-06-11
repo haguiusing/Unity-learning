@@ -1,1 +1,0 @@
-[数学计算公共类Mathf](file:///D:/Obsidian%20Unity/Unity/Unity%E5%9B%9B%E9%83%A8%E6%9B%B2/Assets/Scripts/Unity%E5%9F%BA%E7%A1%80/3D%E6%95%B0%E5%AD%A6/Lesson1_Mathf.cs)

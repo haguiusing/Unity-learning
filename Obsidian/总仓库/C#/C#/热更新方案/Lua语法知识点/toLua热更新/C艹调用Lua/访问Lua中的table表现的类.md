@@ -1,2 +1,0 @@
-[D:\Obsidian Unity\Unity\LearnToLua\Assets\Scripts\CSharpCallLua\Lesson7_Table.cs](file:///d%3A/Obsidian%20Unity/Unity/LearnToLua/Assets/Scripts/CSharpCallLua/Lesson7_Table.cs)
-![[Pasted image 20250602110602.png]]

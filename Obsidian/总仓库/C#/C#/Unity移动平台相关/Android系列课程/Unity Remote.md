@@ -1,1 +1,0 @@
-[Unity Remote](file:///G:/Unity/AndroidTest/Platform_Teach/Assets/Scripts/Lesson8_Unity%20Remote/Lesson8_Unity%20Remote.cs)
