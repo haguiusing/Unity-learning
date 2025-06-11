@@ -1,0 +1,1 @@
+[ScriptableObject概述](file:///D:/Obsidian%20Unity/Unity/Unity%E5%9B%9B%E9%83%A8%E6%9B%B2/Assets/Scripts/Unity%E8%BF%9B%E9%98%B6/ScriptableObject/Lesson1_ScriptableObject%20%E6%95%B0%E6%8D%AE%E6%96%87%E4%BB%B6%E7%9A%84%E5%88%9B%E5%BB%BA/Lesson1.cs)

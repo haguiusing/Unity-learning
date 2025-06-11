@@ -1,0 +1,2 @@
+[Lesson2_Unity 2021.3.6版本打包安卓应用程序](file:///G:/Unity/Unity%E9%A1%B9%E7%9B%AE/Platform_Teach/Assets/Scripts/Lesson2_Unity%202021.3.6%E7%89%88%E6%9C%AC%E6%89%93%E5%8C%85%E5%AE%89%E5%8D%93%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F/Lesson2_Unity%E6%89%93%E5%8C%85%E5%AE%89%E5%8D%93%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F.cs)
+![[Pasted image 20250417172149.png]]
