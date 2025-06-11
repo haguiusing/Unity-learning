@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "LINQ 转换运算符/1.0.0": {
+        "runtime": {
+          "LINQ 转换运算符.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LINQ 转换运算符/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

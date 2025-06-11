@@ -1,0 +1,1 @@
+[ScriptableObject非持久化数据](file:///D:/Obsidian%20Unity/Unity/Unity%E5%9B%9B%E9%83%A8%E6%9B%B2/Assets/Scripts/Unity%E8%BF%9B%E9%98%B6/ScriptableObject/Lesson3_ScriptableObject%20%E9%9D%9E%E6%8C%81%E4%B9%85%E6%95%B0%E6%8D%AE/Lesson3.cs)

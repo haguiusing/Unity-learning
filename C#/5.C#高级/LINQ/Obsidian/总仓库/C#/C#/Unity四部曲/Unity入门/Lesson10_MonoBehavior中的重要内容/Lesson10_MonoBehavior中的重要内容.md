@@ -1,0 +1,1 @@
+C#脚本[Lesson10_MonoBehavior中的重要内容](file:///D:/Obsidian%20Unity/Unity/Unity%E5%9B%9B%E9%83%A8%E6%9B%B2/Assets/Scripts/Unity%E5%85%A5%E9%97%A8/Lesson10_MonBehavior%E4%B8%AD%E7%9A%84%E9%87%8D%E8%A6%81%E5%86%85%E5%AE%B9/Lesson10_MonoBehavior%E4%B8%AD%E7%9A%84%E9%87%8D%E8%A6%81%E5%86%85%E5%AE%B9.cs)

@@ -1,0 +1,2 @@
+[D:\Obsidian Unity\Unity\LearnToLua\Assets\Scripts\CSharpCallLua\Lesson6_ListDic.cs](file:///d%3A/Obsidian%20Unity/Unity/LearnToLua/Assets/Scripts/CSharpCallLua/Lesson6_ListDic.cs)
+![[Pasted image 20250602110031.png]]
