@@ -1,1 +1,0 @@
-[Unity 手册：关节体组件参考 - Unity 游戏引擎](https://docs.unity3d.org.cn/6000.0/Documentation/Manual/class-ArticulationBody.html)

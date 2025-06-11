@@ -1,6 +1,0 @@
-[[Sprite Editor]]
-[[Sprite Renderer]]
-[[Sprite Creator]]
-[[Sprite Mask]]
-[[Sorting Group]]
-[[Sprite Atlas精灵图集制作]]

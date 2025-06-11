@@ -1,1 +1,0 @@
-[Lesson6_延迟（延时）函数](D:\Obsidian Unity\Unity\Unity四部曲\Assets\Scripts\Unity基础\Mono中的重要内容\Lesson6_延迟_延时_函数.cs)

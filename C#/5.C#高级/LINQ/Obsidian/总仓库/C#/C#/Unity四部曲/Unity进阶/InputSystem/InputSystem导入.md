@@ -1,2 +1,0 @@
-[InputSystem导入](file:///D:/Obsidian%20Unity/Unity/Unity%E5%9B%9B%E9%83%A8%E6%9B%B2/Assets/Scripts/Unity%E8%BF%9B%E9%98%B6/InputSystem/Lesson1_InputSystem%E5%AF%BC%E5%85%A5/Lesson1_InputSystem%E5%AF%BC%E5%85%A5.cs)
-新InputSystem需使用Unity 2019.4及以上版本，推荐使用长期支持版（LTS）。
