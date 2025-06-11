@@ -1,0 +1,38 @@
+**_Profiler 是Unity中分析性能开销的工具_**  
+**_• 各种开销一览无遗_**  
+**_• 可跨平台使用（Web、PC、iOS、Android、WP）_**  
+**• 只有Unity Pro版本才开启该功能**
+![[Pasted image 20250329160229.png]]
+
+## Profiler 窗口布局
+Profiler 窗口布局如下：
+![[Pasted image 20250329160336.png]]
+Profiler 窗口，其中已选中 CPU Usage Profiler 模块
+
+- **A：**[性能分析器模块](https://docs.unity.cn/cn/2019.4/Manual/ProfilerWindow.html#module)。这是可以在应用程序中接受性能分析的所有模块的列表。使用此区域顶部的下拉菜单可以在窗口中添加和删除模块。
+- **B：**[性能分析器控件](https://docs.unity.cn/cn/2019.4/Manual/ProfilerWindow.html#controls)。使用这些控件可以设置要从哪个设备进行性能分析以及 Unity 应该执行哪种性能分析，可以在帧之间进行导航，还可以开始记录数据。
+- **C：帧图表**。此区域包含性能分析器进行性能分析的每个模块的图表。首次打开性能分析器时，该区域为空白；开始对应用程序进行性能分析时，该区域中将填充信息。
+- **D：模块详细信息面板**。此窗口区域中的信息根据所选择的模块而异。例如，选择 CPU Usage Profiler 模块时，此区域包含详细的时间轴和切换到 Hierarchy 视图的选项。选择 Rendering Profiler 模块时，此区域显示调试信息列表。首次打开性能分析器时，该区域为空白；开始对应用程序进行性能分析时，该区域中将填充信息。
+
+- ## 性能分析器控件
+![[Pasted image 20250329161324.png]]
+性能分析器控件位于 Profiler 窗口顶部的工具栏中。使用这些控件可开始或停止记录性能分析器数据以及浏览分析的帧。
+
+| **控件**               |                                | **功能**                                                                                                                                                                                                                                                                                                                    |
+| -------------------- | ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Attach to Player** |                                | 选择对应用程序进行性能分析时所在的目标。默认设置为 **Playmode**。也可以选择 **Editor** 以对 Unity Editor 进行性能分析并显示 Editor 当前在使用的资源。  <br>  <br>Unity 还自动检测网络上正在运行或通过 USB 连接的所有设备，并将这些设备显示在下拉选单中。单击下拉选单中的 **Enter IP** 可手动输入设备的 IP 地址，以便在该设备上对应用程序进行性能分析。有关更多信息，请参阅[应用程序性能分析](https://docs.unity.cn/cn/2019.4/Manual/profiler-profiling-applications.html)。 |
+| **Record**           |                                | 启用此设置可以在运行应用程序时记录活跃模块的性能分析信息。如果未启用此按钮，则在运行应用程序时，性能分析器不会收集任何数据。                                                                                                                                                                                                                                                            |
+| **Back arrow**       |                                | 向后导航一帧。                                                                                                                                                                                                                                                                                                                   |
+| **Forward arrow**    |                                | 向前导航一帧。                                                                                                                                                                                                                                                                                                                   |
+| **Current Frame**    |                                | 单击 **Current Frame** 按钮时，帧指示线会跳到最后记录的帧，并且性能分析器进入 Current Frame 模式。性能分析器在此模式下收集数据时，它会停留在当前帧上并实时显示收集的数据。再次单击该按钮将退出 Current Frame 模式。                                                                                                                                                                                        |
+| **Frame number**     |                                | 指示当前在性能分析器中查看的帧的编号。                                                                                                                                                                                                                                                                                                       |
+| **Clear**            |                                | 从 Profiler 窗口擦除所有数据。                                                                                                                                                                                                                                                                                                      |
+| **Clear on Play**    |                                | 启用此设置后，下次单击 Player 窗口中的 Play 或连接到新的目标设备时，可从 Profiler 窗口擦除所有数据。                                                                                                                                                                                                                                                            |
+| **Deep Profile**     |                                | 启用此设置可对所有 C# 方法进行性能分析。启用此设置后，Unity 会将检测功能添加到所有 Mono 调用，然后便可以对脚本进行更详细的调查。请参阅[深度性能分析](https://docs.unity.cn/cn/2019.4/Manual/ProfilerWindow.html#deep-profiling)。                                                                                                                                                           |
+| **Call Stacks**      |                                | 要记录用于脚本内存分配的调用栈，请单击此开关。启用此选项时，性能分析器记录的帧具有 GC.Alloc 样本中的信息；即使在 **Deep Profile** 未激活的情况下，完整调用栈上的这些样本也会导致托管脚本分配。有关更多信息，请参阅“CPU Usage Profiler 模块”页面的[分配调用栈](https://docs.unity.cn/cn/2019.4/Manual/ProfilerCPU.html#allocation-callstacks)部分。                                                                                |
+| **Load**             |                                | 将已保存的性能分析器数据加载到 Profiler 窗口中。还可以加载播放器通过 [Profiler.logFile](https://docs.unity.cn/cn/2019.4/ScriptReference/Profiling.Profiler-logFile.html) API 写出到文件的二进制性能分析数据。  <br>  <br>按住 Shift 按钮并单击 **Load** 按钮可将文件内容附加到当前性能分析帧。                                                                                                   |
+| **Save**             |                                | 将性能分析器数据保存到 Project 文件夹中的 .data 文件中。                                                                                                                                                                                                                                                                                      |
+| **上下文菜单**            |                                |                                                                                                                                                                                                                                                                                                                           |
+|                      | Color Blind Mode               | 启用此设置可使性能分析器在其图形中使用更高对比度的颜色。这样可以增强红绿色盲（例如绿色盲、红色盲或蓝色盲）用户的视觉感知度。                                                                                                                                                                                                                                                            |
+|                      | Show stats for “current” frame | 默认情况下，选择 **Current Frame** 按钮并进入 Current Frame 模式时，帧指示线不会随当前帧统计信息显示相关注释。这是因为统计信息注释可能导致难以实时查看数据。要显示注释，请启用此设置。                                                                                                                                                                                                              |
+|                      | Preferences                    | 打开 **Preferences** 菜单以调整特定于性能分析器的属性。                                                                                                                                                                                                                                                                                      |

@@ -1,0 +1,2 @@
+中文文档：[React App (wcai49.github.io)](https://wcai49.github.io/cinemachine_doc_Chinese/)
+实例教程：[【游戏开发教程】Unity Cinemachine快速上手，详细案例讲解（虚拟相机系统 | 新发出品 | 良心教程）_cinemachine教程-CSDN博客](https://blog.csdn.net/linxinfa/article/details/124537415)

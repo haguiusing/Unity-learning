@@ -1,0 +1,22 @@
+{
+  "nextPathHotkey": {
+    "modifiers": [],
+    "key": "ArrowRight"
+  },
+  "prevPathHotkey": {
+    "modifiers": [],
+    "key": "ArrowLeft"
+  },
+  "openPanelHotkey": {
+    "modifiers": [],
+    "key": "o"
+  },
+  "closePanelHotkey": {
+    "modifiers": [],
+    "key": "w"
+  },
+  "filter": {
+    "regexp": "",
+    "mode": "Exclude"
+  }
+}
